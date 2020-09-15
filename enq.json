@@ -1,0 +1,61 @@
+{
+  "date": "13/07/2020",
+  "fullname": {
+    "first name": "Abc",
+    "last name": "Z"
+  },
+  "dob": "01/01/1999",
+  "contact": {
+    "phone no": 1234567890,
+    "email": "abc@email.com"
+  },
+  "address": "6, 5th cross, 7th main, bengaluru - 500000",
+  "gender": "Male",
+  "course": "Python",
+  "edu background": "B.E",
+  "working exp": {
+    "worked status": "N",
+    "working years": "N/A",
+    "previous company": "N/A"
+  }
+}{
+  "date": "14/07/2020",
+  "fullname": {
+    "first name": "Jkl",
+    "last name": "M"
+  },
+  "dob": "14/02/1996",
+  "contact": {
+    "phone no": 9876543210,
+    "email": "jkl@email.com"
+  },
+  "address": "24, Avenue road, Banglore - 560001",
+  "gender": "Female",
+  "course": "Javascript",
+  "edu background": "B.C.A",
+  "working exp": {
+    "worked status": "Y",
+    "working years": "2",
+    "previous company": "qwerty pvt. limited"
+  }
+}{
+  "date": "13/07/2020",
+  "fullname": {
+    "first name": "Xyz",
+    "last name": "S"
+  },
+  "dob": "13/12/1995",
+  "contact": {
+    "phone no": 147258369,
+    "email": "xyz@email.com"
+  },
+  "address": "no.14, central park road, jaynagar, bengaluru-560084",
+  "gender": "Male",
+  "course": "Java",
+  "edu background": "B.E",
+  "working exp": {
+    "worked status": "Y",
+    "working years": "1.4",
+    "previous company": "SpaceX"
+  }
+}
